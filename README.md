@@ -12,9 +12,9 @@ INSPIRED by the following:
 
 UPDATES once a number of weeks / months
 
-REFER to the Atabooks above for nominations, changes, or removals
+REFER to the Atabook above for nominations, changes, or removals
 
-- ALSO REFER to the Atabooks for questions, requests, and the such
+- ALSO REFER to the Atabook for questions, requests, and the such
 
 ! NOTE that, while GitHub remains the primary social for mentioning these builders, other socials such as [Pinterest](https://es.pinterest.com/), [Patreon](https://www.patreon.com/), ETC. are allowed.
 
