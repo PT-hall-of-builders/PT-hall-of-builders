@@ -8,7 +8,7 @@ LATEST UPDATE: 06/09/26
 INSPIRED by the following:
 [pt-players](https://github.com/pt-players), [pt-awards](https://github.com/pt-awards), [ponytowners](https://github.com/ponytowners), [pt-walk-of-fame](https://github.com/pt-walk-of-fame), and [pt-stars](https://github.com/pt-stars)
 
-- CREDITS to the above and those aiding in this GitHub's creation!
+- CREDITS to the above and those aiding in this GitHub account's creation!
 
 UPDATES once a number of weeks / months
 
